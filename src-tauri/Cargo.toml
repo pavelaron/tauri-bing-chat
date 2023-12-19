@@ -1,8 +1,8 @@
 [package]
 name = "bing-chat"
-version = "1.0.0"
+version = "0.1.1"
 description = "A Tauri App"
-authors = ["you"]
+authors = ["Aron Pavel"]
 license = ""
 repository = ""
 edition = "2021"
